@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "482513689884",
+    "project_id": "vfirebaseauth",
+    "storage_bucket": "vfirebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482513689884:android:63ec7d425436f766bb2ed9",
+        "android_client_info": {
+          "package_name": "com.example.vfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482513689884-6fpgf2pi96986bsq6lt5rgph2dq9b61k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABxwq8WIBu3fRvLQDtRIILZeAZBTTwv3c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482513689884-6fpgf2pi96986bsq6lt5rgph2dq9b61k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
